@@ -1,0 +1,10 @@
+ability: vital-spirit
+ability: anger-point
+ability: defiant
+base_experience:61
+height:0.5m
+id:56
+name:mankey
+type: fighting
+weight:28.0kg
+Generation: generation-i

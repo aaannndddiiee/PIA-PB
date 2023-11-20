@@ -1,0 +1,10 @@
+ability: overgrow
+ability: chlorophyll
+base_experience:64
+height:0.7m
+id:1
+name:bulbasaur
+type: grass
+type: poison
+weight:6.9kg
+Generation: generation-i

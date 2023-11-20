@@ -1,0 +1,10 @@
+ability: overgrow
+ability: chlorophyll
+base_experience:142
+height:1.0m
+id:2
+name:ivysaur
+type: grass
+type: poison
+weight:13.0kg
+Generation: generation-i
